@@ -1,0 +1,8 @@
+{
+  "name": "markdown-render-speed-02-entry",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Faster drop-in replacement for marked 18.1.3 parse() (make.fun markdown-render-speed-02)",
+  "main": "parse.js",
+  "license": "MIT"
+}
